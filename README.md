@@ -48,6 +48,7 @@ covid-ct-scan-predictor/
 
 
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d5c23b24-dad7-44da-80bb-d76dbeacb803" />
 
 
 
