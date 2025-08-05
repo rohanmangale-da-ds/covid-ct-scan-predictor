@@ -1,4 +1,5 @@
 **Project Description**
+
 COVID-CT Scan Predictor is a web-based deep learning application that predicts COVID Positive or COVID Negative from lung CT scan images using a fine-tuned ResNet18 model in PyTorch.
 
 🧠 Backend: Flask + PyTorch (Deep Learning Model for Image Classification)
@@ -9,6 +10,7 @@ COVID-CT Scan Predictor is a web-based deep learning application that predicts C
 
 
 **Key Features**
+
 Upload lung CT scan images (JPG/PNG).
 
 Get instant prediction (COVID Positive / Negative).
@@ -21,6 +23,7 @@ Fully responsive frontend with TailwindCSS.
 
 
 **Technologies Used**
+
 Python 3.10+
 PyTorch
 Flask
@@ -31,6 +34,7 @@ HTML, TailwindCSS, JavaScript
 
 
 **Project Structure**
+
 covid-ct-scan-predictor/
 │
 ├── app.py                     # Flask backend with PyTorch model
@@ -42,12 +46,16 @@ covid-ct-scan-predictor/
 └── README.md                  # Project documentation
 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+# Covid Negatve CT scan image prediction
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fbb9a4e9-b449-4405-aeb8-882c3d63207b" />
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+# Covid Postive CT scan image prediction
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d5c23b24-dad7-44da-80bb-d76dbeacb803" />
 
 
